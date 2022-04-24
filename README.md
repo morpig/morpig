@@ -17,7 +17,7 @@ Tech stack: NodeJS, Vue, MongoDB, Sourcepawn (C++)
 
 
 - Project X (09/2019 ~)
-One man business, providing service to ~3k paid customers in Indonesia.
+Providing service to ~3k paid customers in Indonesia.
 
 Tech stack: NodeJS, MongoDB, nginx, Docker
 
