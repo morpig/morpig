@@ -22,7 +22,7 @@ One man business, providing service to ~3k paid customers in Indonesia.
 Tech stack: NodeJS, MongoDB, nginx, Docker
 
 
-- Project Y (co-dev, 01/2022 ~ 03/2022)
+- Project Y (intern dev, 01/2022 ~ 03/2022)
 Provide video content for people who are interested in K-POP and K-Drama.
 
 We were able to attract 1M total users, 350k MAU, 6k DAU across Indonesia.
