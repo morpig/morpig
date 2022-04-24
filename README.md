@@ -8,7 +8,7 @@ morpig2@gmail.com. I'm open for chat & collaboration!
 
 ```
 -  onetap (CEO & lead dev, 08/2016 ~ 03/2020)
-School project, we provide CS:GO (Counter-Strike) game servers throughout the
+Started as a school project, we provide CS:GO (Counter-Strike) game servers throughout the
 Asia-Pacific region.
 
 We were able to attract 204k total users across Asia, with 23k MAU, 2k DAU and 1k paid customers.
