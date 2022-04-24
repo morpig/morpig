@@ -1,7 +1,7 @@
 ## Hello 👋
 My name is Dito Windyaksa, I'm from Indonesia and currently doing my undergraduate/bachelor's degree.
 
-- 📫 Contact me over at [Twitter DM (@morpiggg)](https://twitter.com/morpigggg) or email at 
+- 📫 Contact me over at [Twitter DM (@morpiggg)](https://twitter.com/morpiggg) or email at 
 morpig2@gmail.com. Open for chat & collaboration!
 
 ## My Experiences
