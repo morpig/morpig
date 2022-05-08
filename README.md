@@ -16,14 +16,8 @@ We were able to attract 204k total users across Asia, with 23k MAU, 2k DAU and 1
 Tech stack: NodeJS, Vue, MongoDB, Sourcepawn (C++)
 
 
-- Project X (09/2019 ~)
-Providing service to ~3k paid customers in Indonesia.
-
-Tech stack: NodeJS, MongoDB, nginx, Docker
-
-
 - Project Y (intern dev, 01/2022 ~ 03/2022)
-Provide video content for people who are interested in K-POP and K-Drama.
+Provide VoD and streaming content for people who are interested in K-Content (korean dramas, etc).
 
 We were able to attract 1M total users, 350k MAU, 6k DAU across Indonesia.
 
