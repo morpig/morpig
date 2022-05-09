@@ -1,5 +1,5 @@
 ## Hello 👋
-My name is Dito, I'm from Jakarta, Indonesia and currently doing my undergraduate/bachelor's degree.
+My name is Dito and currently doing my undergraduate/bachelor's degree.
 
 - 📫 Contact me over at [Twitter DM (@morpiggg)](https://twitter.com/morpiggg) or email at 
 morpig2@gmail.com. I'm open for chat & collaboration!
@@ -17,7 +17,7 @@ Tech stack: NodeJS, Vue, MongoDB, Sourcepawn (C++)
 
 
 - Project Y (intern dev, 01/2022 ~ 03/2022)
-Provide VoD and streaming content for people who are interested in K-Content (korean dramas, etc).
+Provide streaming content for people who are interested in K-Content (korean dramas, music, etc).
 
 We were able to attract 1M total users, 350k MAU, 6k DAU across Indonesia.
 
