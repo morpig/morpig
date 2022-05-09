@@ -11,7 +11,7 @@ morpig2@gmail.com. I'm open for chat & collaboration!
 Started as a school project, we provide CS:GO (Counter-Strike) game servers throughout the
 Asia-Pacific region.
 
-We were able to attract 204k total users across Asia, with 23k MAU, 2k DAU and 1k paid customers.
+stats: 204k total users across Asia, 23k MAU, 2k DAU and 1k paid customers.
 
 Tech stack: NodeJS, Vue, MongoDB, Sourcepawn (C++)
 
@@ -19,7 +19,7 @@ Tech stack: NodeJS, Vue, MongoDB, Sourcepawn (C++)
 - Project Y (intern dev, 01/2022 ~ 03/2022)
 Provide streaming content for people who are interested in K-Content (korean dramas, music, etc).
 
-We were able to attract 1M total users, 350k MAU, 6k DAU across Indonesia.
+stats: 1M total users, 350k MAU, 6k DAU across Indonesia. 
 
 Tech stack: NodeJS (+vercel for scaling), MongoDB
 ```
