@@ -1,5 +1,5 @@
 ## Hello 👋
-My name is Dito and currently doing my undergraduate/bachelor's degree.
+I'm Dito from Jakarta, Indonesia and currently doing my undergraduate/bachelor's degree.
 
 - 📫 Contact me over at [Twitter DM (@morpiggg)](https://twitter.com/morpiggg) or email at 
 morpig2@gmail.com. I'm open for chat & collaboration!
