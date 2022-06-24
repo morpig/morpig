@@ -7,7 +7,7 @@ morpig2@gmail.com. I'm open for chat & collaboration!
 ## My Experiences
 
 ```
--  onetap (CEO & lead dev, 08/2016 ~ 03/2020)
+-  onetap (CEO & lead dev, 08/2016 ~ 07/2021)
 Started as a school project, we provide CS:GO (Counter-Strike) game servers throughout the
 Asia-Pacific region.
 
