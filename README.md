@@ -1,10 +1,12 @@
 ## Hello 👋
 I'm Dito from Jakarta, Indonesia and currently doing my undergraduate/bachelor's degree.
 
+Other than uni, I currently manage server infrastructure & backend for an expat-owned company in Jakarta.
+
 - 📫 Contact me over at [Twitter DM (@morpiggg)](https://twitter.com/morpiggg) or email at 
 morpig2@gmail.com.
 
-## My Experiences
+## Past Experiences!
 
 ```
 -  onetap (CEO & lead dev, 08/2016 ~ 07/2021)
