@@ -1,7 +1,5 @@
 ## Hello 👋
-I'm Dito from Jakarta, Indonesia and currently doing my undergraduate/bachelor's degree.
-
-Other than uni, I currently manage server infrastructure (AWS + bare metal) & backend (node + bun) for an expat-owned company in Jakarta.
+I'm Dito from Jakarta, Indonesia.. what do i do??
 
 - 📫 Contact me over at [Twitter DM (@morpiggg)](https://twitter.com/morpiggg) or email at 
 morpig2@gmail.com.
