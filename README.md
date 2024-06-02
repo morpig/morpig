@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello 👋
+I'm Dito from Jakarta, Indonesia. I currently work as a backend(+server) engineer at a foreign company in Indonesia, serving 50k monthly active users.
 
-<!--
-**morpig/morpig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of the days, I manage server infrastructure from networking -> servers -> kubernetes, followed by backend development mostly using nodejs/typescript.
 
-Here are some ideas to get you started:
+Other than that, I love travelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm open to talk!
+- 📫 Contact me over at [Twitter DM (@morpiggg)](https://twitter.com/morpiggg) or email at 
+morpig2@gmail.com.
+
+## Past Experiences!
+
+```
+-  onetap (CEO & lead dev, 08/2016 ~ 07/2022)
+Started as a secondary school project, we provide CS:GO (Counter-Strike) game servers throughout the
+Asia-Pacific region.
+
+During the time, we acquired 204k total users across Asia including 23k monthly active users, 2k daily active users, and 1k paid customers.
+
+Tech stack: NodeJS, Vue, MongoDB, Sourcepawn (C++)
+```
