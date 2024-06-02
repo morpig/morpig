@@ -1,3 +1,4 @@
+<img src="https://logs.serverdream.net/hello"/></a>
 ## Hello 👋
 I'm Dito from Jakarta, Indonesia. I currently work as a backend(+server) engineer at a foreign company in Indonesia, serving 50k monthly active users.
 
@@ -22,4 +23,3 @@ During the time, we acquired 204k total users across Asia including 23k monthly 
 
 Tech stack: NodeJS, Vue, MongoDB, Sourcepawn (C++)
 ```
-<img src="https://logs.serverdream.net/hello"/></a>
