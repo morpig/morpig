@@ -3,6 +3,8 @@ I'm Dito from Jakarta, Indonesia. I currently work as a backend(+server) enginee
 
 Most of the days, I manage server infrastructure from networking -> servers -> kubernetes, followed by backend development mostly using nodejs/typescript.
 
+I also lead the integration team, working with external partners to integrate our services.
+
 Other than that, I love travelling.
 
 I'm open to talk!
