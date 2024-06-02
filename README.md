@@ -1,4 +1,4 @@
-<img src="https://logs.serverdream.net/hello"/></a>
+<img src="https://logs.serverdream.net/hello.png"/></a>
 ## Hello 👋
 I'm Dito from Jakarta, Indonesia. I currently work as a backend(+server) engineer at a foreign company in Indonesia, serving 50k monthly active users.
 
