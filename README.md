@@ -1,5 +1,5 @@
-<img src="https://logs.serverdream.net/hello.png"/></a>
 ## Hello 👋
+<img src="https://logs.serverdream.net/hello.png"/></a>
 I'm Dito from Jakarta, Indonesia. I currently work as a backend(+server) engineer at a foreign company in Indonesia, serving 50k monthly active users.
 
 Most of the days, I manage server infrastructure from networking -> servers -> kubernetes, followed by backend development mostly using nodejs/typescript.
