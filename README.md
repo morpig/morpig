@@ -1,8 +1,8 @@
 ## Hello 👋
 <img src="https://log-collector.30degrees.workers.dev/hello.png"/></a>
-I'm Dito from Jakarta, Indonesia. I currently work as a backend engineer & backend software developer at a foreign company in Indonesia.
+I'm Dito from Jakarta, Indonesia. I currently work as a backend developer & server engineer at a foreign company in Indonesia.
 
-Most of the days, I manage server infrastructure from networking -> servers -> kubernetes, followed by backend development mostly using nodejs/typescript.
+I manage server infrastructure from physical colocation -> bare metals -> networking -> virtualization -> kubernetes, followed by backend development mostly using nodejs/typescript.
 
 I also lead the integration team, working with external partners to integrate our services.
 
