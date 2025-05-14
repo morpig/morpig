@@ -1,5 +1,5 @@
 ## Hello 👋
-<img src="https://log-collector.30degrees.workers.dev/hello.png"/></a>
+<img src="https://log-collector.30degrees2.workers.dev/hello.png"/></a>
 I'm Dito from Jakarta, Indonesia. I currently work as a backend developer & server engineer at a foreign company in Indonesia.
 
 I manage server infrastructure from physical colocation -> bare metals -> networking -> virtualization -> kubernetes, followed by backend development mostly using nodejs/typescript.
