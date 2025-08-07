@@ -2,7 +2,7 @@
 <img src="https://log-collector.30degrees2.workers.dev/hello.png"/></a>
 I'm Dito from Jakarta, Indonesia. I currently work as a backend developer & server engineer.
 
-I also lead the integration team, working with external partners to integrate our services.
+I also lead the integration team, working with external partners to integrate our/their services.
 
 ## My Work Experiences!
 ```
