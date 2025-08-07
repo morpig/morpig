@@ -6,11 +6,11 @@ I also lead the integration team, working with external partners to integrate ou
 
 ## My Work Experiences!
 ```
-- Integrated Indonesia's unified QR payment system (QRIS) with multiple leading acquirers from sandbox stage, validation testing with regulator, and production deployment.
+- Integrated Indonesia's unified QR payment system (QRIS) with leading acquirers from sandbox stage, validation testing with regulator, and production deployment.
 
-- Integrated Visa/Mastercard card payment system, both with domestic & international acquirers
+- Integrated Visa/Mastercard card payment system, with both domestic & international acquirers
 
-- Implemented a high-availability queue system for internal payment products, enabling fast, near-instant processing while preserving transaction data during backend system failures.
+- Implemented a high-availability queue system for internal payment products, enabling fast, near-instant processing while preserving transaction data during system failures.
 
 - Manage server deployment from physical colocation -> bare metals -> networking -> virtualization -> kubernetes.
 
