@@ -23,9 +23,9 @@ and much more. i do many stuffs..
 
 ##
 
-Other than that, I love travelling and watching concerts!
+Other than that, I love traveling and going to concerts!
 
 I'm open to talk to anyone! Contact me over at [Twitter DM (@morpiggg)](https://twitter.com/morpiggg) or email me at 
 morpig2@gmail.com.
 
-or, if you know me from elsewhere, please message me on the given platforms!
+or, if you know me from elsewhere, please message me on the respective platforms!
