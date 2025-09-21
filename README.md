@@ -4,7 +4,7 @@ I'm Dito from Jakarta, Indonesia. I currently work as a backend developer & serv
 
 I also lead the integration team, working with external partners to integrate our/their services.
 
-I have skills from highschool basics microsoft excel/access -> backend development with node -> database with postgres/mongo -> infra management with kubernetes -> server management with proxmox.
+I've grown my skill set from highschool basics microsoft excel/access -> backend development with node -> database with postgres/mongo -> infra management with kubernetes -> server management with proxmox.
 
 ## My Work Experiences!
 - Led a gaming startup company (onetap) during high school 2016 ~ 2018, we provide multiplayer game servers within the Asia-Pacific region. Our services were used by professional and well-known gaming players in Indonesia at the time.
