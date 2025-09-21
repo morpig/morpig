@@ -28,4 +28,4 @@ Other than that, I love travelling and watching concerts!
 I'm open to talk to anyone! Contact me over at [Twitter DM (@morpiggg)](https://twitter.com/morpiggg) or email me at 
 morpig2@gmail.com.
 
-or, if you know me from elsewhere, please message on the given platforms!
+or, if you know me from elsewhere, please message me on the given platforms!
