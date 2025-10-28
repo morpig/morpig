@@ -11,7 +11,7 @@ I've grown my skill set from highschool basics microsoft excel/access -> backend
 
 - Integrated Indonesia's unified QR payment system (QRIS), working with multiple stakeholders (acquiring companies, regulator, end customers) until live production deployment.
 
-- Integrated South Korea's Toss PG system, covering payment acceptance (digital wallets + cards + mobile payment + gift certificates) and personal identity authentication.
+- Integrated South Korea's Toss PG system, covering payment acceptance and personal identity authentication.
 
 - Integrated Visa/Mastercard card payment system in partnership with leading local & international payment gateways.
 
