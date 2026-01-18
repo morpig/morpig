@@ -4,7 +4,12 @@ I'm Dito from Jakarta, Indonesia. I currently work as a backend developer & serv
 
 I also lead the integration team, working with external partners to integrate our/their services.
 
-I've grown my skill set from highschool basics microsoft excel/access -> backend development with node -> database with postgres/mongo -> infra management with kubernetes -> server management with proxmox.
+Other than that, I love traveling and going to concerts!
+
+I'm open to talk to anyone! Contact me over at [Twitter DM (@morpiggg)](https://twitter.com/morpiggg) or email me at 
+morpig2@gmail.com.
+
+or, if you know me from other social media, just DM me there!
 
 ## My Work Experiences!
 - Led a gaming startup company (onetap) during high school 2016 ~ 2018, we provide multiplayer game servers within the Asia-Pacific region. Our services were used by professional and well-known gaming players in Indonesia at the time.
@@ -20,12 +25,3 @@ I've grown my skill set from highschool basics microsoft excel/access -> backend
 - Implemented high-availability queue system for internal payment products, enabling fast, near-instant processing while preserving transaction data during system failures.
 
 and much more. i do many stuffs..
-
-##
-
-Other than that, I love traveling and going to concerts!
-
-I'm open to talk to anyone! Contact me over at [Twitter DM (@morpiggg)](https://twitter.com/morpiggg) or email me at 
-morpig2@gmail.com.
-
-or, if you know me from elsewhere, please message me on the respective platforms!
