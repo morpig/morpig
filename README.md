@@ -12,7 +12,7 @@ morpig2@gmail.com.
 or, if you know me from other social media, just DM me there!
 
 ## My Work Experiences!
-- Led a gaming startup company (onetap) during high school 2016 ~ 2018, we provide multiplayer game servers within the Asia-Pacific region. Our services were used by professional and well-known gaming players in Indonesia at the time.
+- Led a gaming startup company (onetap) during school 2016 ~ 2020, we provide multiplayer game servers within the Asia-Pacific region. Our services were used by professional and well-known gaming players in Indonesia at the time.
 
 - Integrated Indonesia's unified QR payment system (QRIS), working with multiple stakeholders (acquiring companies, regulator, end customers) until live production deployment.
 
